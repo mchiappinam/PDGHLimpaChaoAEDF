@@ -1,0 +1,12 @@
+#Twilight:
+#  Naga: -11241
+#  Hydra: -30216
+#  Twilight Lich: -32413 (tem que pegar ID dos amigos)
+#  Ur-ghast: 56 (id do ghast)
+#  Snow Queen: -15314
+entityIdDontRemove:
+- -11241
+- -30216
+- -32413
+- 56
+- -15314
